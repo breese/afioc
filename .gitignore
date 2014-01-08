@@ -1,0 +1,8 @@
+.gitignore
+*~
+stage
+CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+callgrind.out.*
